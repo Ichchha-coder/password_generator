@@ -1,1 +1,1 @@
-This is the python script to generate the random password
+This is the python script to generate the random password for security purpose.
